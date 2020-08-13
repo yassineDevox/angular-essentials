@@ -1,5 +1,5 @@
 # angular-essentials
-Hello my students i create this repository to group all lessons and their excercices , then you could access to them in a structured way , i hope you will enjoy it ,
+Hello my students i created this repository to group all lessons and their excercices , then you could access to them in a structured way , i hope you will enjoy it ,
 your teacher yassine from elearnBee :) !! 
 it contains 3 folders : 
 Lessons : contains all lessons of the course
