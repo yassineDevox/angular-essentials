@@ -5,8 +5,8 @@ Hello my students i created this repository to group all lessons and their excer
 ## Getting Started 
 
 The repo contains 3 folders : 
-* Contains all lessons of the course
-* contains all lessons's exercices 
+* Lessons : contains all lessons of the course
+* Exercices : contains all lessons's exercices 
 * Create the solutions folder where you will put all the solutions of the exercices
 
 ```
@@ -18,6 +18,8 @@ Solutions/
 ```
  float_ex1.html
 ```
-### Conclusion
+## Conclusion
 
-Hope you will enjoy it and happy coding :D !!
+Try to have a fun time and happy coding :D !!
+
+< Yassine-ElearnBee-Center / >
