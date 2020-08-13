@@ -20,4 +20,9 @@ Solutions/
 ```
 ## Conclusion
 
-Try to have a fun time and happy coding :D  Yassine From ElearnBee Center !!
+Try to have a fun time and happy coding :D  
+
+## Authors
+
+* **Yassine Rassy** - *Initial work* - [ElearnBee Center](https://elearnbee.netlify.app/agency/home)
+
