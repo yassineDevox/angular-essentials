@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>positioning abso vs rel</title>
+</head>
+<style>
+    * {
+        margin: 0;
+    }
+
+    div {
+        width: 150px;
+        height: 150px;
+        padding: 30px;
+        color: white;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .d0 {
+        margin: 30px;
+        background-color: blue;
+    }
+
+    .d1 {
+        background-color: green;
+        position: absolute;
+        top: 0;
+
+    }
+
+    .d2 {
+        position: relative;
+        bottom: 70px;
+        z-index: 4;
+        background-color: red;
+    }
+
+    .d3 {
+        position: relative;
+        bottom: 180px;
+        background-color: black;
+    }
+</style>
+
+<body>
+    <div class="d0">D0</div>
+    <div class="d1">D1</div>
+    <div class="d2">D2</div>
+    <div class="d3">D3</div>
+</body>
+
+</html>
