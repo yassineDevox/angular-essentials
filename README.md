@@ -12,6 +12,7 @@ The repo contains 3 folders :
 ```
 Solutions/
 ```
+
 *- And for the solution file with a name that contains (NameLesson_NameExercice.html)
 
 ```
