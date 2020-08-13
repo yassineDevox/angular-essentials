@@ -20,6 +20,4 @@ Solutions/
 ```
 ## Conclusion
 
-Try to have a fun time and happy coding :D !!
-
-< Yassine-ElearnBee-Center / >
+Try to have a fun time and happy coding :D  Yassine From ElearnBee Center !!
